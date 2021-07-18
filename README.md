@@ -14,16 +14,15 @@ Created asssets for the game(Blender)
 -----------------------------
 [![Created asssets for the game](https://img.youtube.com/vi/KK5DAY0A4cY/maxresdefault.jpg)](https://youtu.be/KK5DAY0A4cY)<br />
 
-The spirit of IPSC competitions inspired us to create this game. 
-We think this shooting discipline and competitions are fascinating, dynamic, and useful for all civilian firearms holders.
 
-Athletes work hard to get solid firearm control skills, to gain self-control, and the ability to think right in the process of completing the exercises.
+This is the second game in the PSS series.
+This time I used the exercise materials from the past Rifle World Championship 2019. You may get more information about RWC if you look at https://rws2019.com/.
 
-The exercise materials from past ASIA PACIFIC EXTREME OPEN championships are used in this game. You may get more information about W.E.C if you look at https://www.worldextremecup.com/.
+This game contains Shoot-Off also.
 
-This game contains Shoot Off also.
+To achieve a better result in this game, you need to think about a better game plan before beginning the stage and control yourself during a pass through the stage. So you will feel like a competitor athlete in a match.
 
-To achieve a better result in this game, you need to think about a better game plan before beginning the stage and control yourself during a pass through the stage. So you will feel yourself like a competitor athlete in a match.
+This game uses an SQL server to gain leaderboards and achievements.
 
 Some used assets:
 --------------------------
@@ -31,7 +30,8 @@ Terrain Textures Pack Free - https://assetstore.unity.com/packages/2d/textures-m
 Joystick Pack - https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631<br />
 Desert Environment - http://devassets.com/assets/desert-environment/<br />
 Modern Guns: Handgun - https://assetstore.unity.com/packages/3d/props/guns/modern-guns-handgun-129821<br />
-Native Share for Android & iOS - https://assetstore.unity.com/packages/tools/integration/native-share-for-android-ios-112731<br />
+
+
 
 Some screenshots:
 ------------------------------
