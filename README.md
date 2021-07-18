@@ -8,7 +8,7 @@ Presentation of the Android game
 
 Gameplay video
 -----------------------------
-[![Gameplay video](https://img.youtube.com/vi/sYS8l-Vmv_g/maxresdefault.jpg)](https://youtu.be/sYS8l-Vmv_g)<br />
+[![Gameplay video](https://img.youtube.com/vi/1-ge-7c0gS4/maxresdefault.jpg)](https://youtu.be/1-ge-7c0gS4)<br />
 
 Created asssets for the game(Blender)
 -----------------------------
