@@ -37,7 +37,7 @@ Some screenshots:
 ------------------------------
 <img src="/screen_3840x2160_0.jpg"  height="360" width="640">
 <img src="/allstages.jpg"  height="360" width="640">
-<img src="/stage1-1.jpg"  height="360" width="640">
+<img src="/stage1-1.jpg"  height="340" width="285">
 <img src="/stage1.jpg"  height="360" width="640">
 <img src="/stage11.jpg"  height="360" width="640">
 <img src="/stage21 (2).jpg"  height="360" width="640">
