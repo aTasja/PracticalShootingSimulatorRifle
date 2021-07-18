@@ -13,7 +13,7 @@ Gameplay video
 Created asssets for the game(Blender)
 -----------------------------
 [![Created asssets for the game](https://img.youtube.com/vi/KK5DAY0A4cY/maxresdefault.jpg)](https://youtu.be/KK5DAY0A4cY)<br />
-<img src="/rifle.jpg"  height="100" width="100">
+<img src="/rifle.jpg"  height="300" width="300">
 
 This is the second game in the PSS series.
 This time I used the exercise materials from the past Rifle World Championship 2019. You may get more information about RWC if you look at https://rws2019.com/.
@@ -41,4 +41,4 @@ Some screenshots:
 <img src="/stage1.jpg"  height="360" width="640">
 <img src="/stage11.jpg"  height="360" width="640">
 <img src="/stage21 (2).jpg"  height="360" width="640">
-[
+
