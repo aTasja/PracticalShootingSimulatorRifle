@@ -35,14 +35,10 @@ Modern Guns: Handgun - https://assetstore.unity.com/packages/3d/props/guns/moder
 
 Some screenshots:
 ------------------------------
-<img src="/01_main.jpg"  height="360" width="640">
-<img src="/02_events.jpg"  height="360" width="640">
-<img src="/scene1.png"  height="360" width="640">
-<img src="/2017BackgroundLarge.png"  height="360" width="640">
-<img src="/duelBackgroundLarge.png"  height="360" width="640">
-<img src="/eventsBackgroundLarge.png"  height="360" width="640">
-<img src="/settings.png"  height="360" width="640">
-<img src="/shootoff.png"  height="360" width="640">
-<img src="/help.png"  height="360" width="640">
-<img src="/stages.png"  height="360" width="640">
-
+<img src="/screen_3840x2160_0.jpg"  height="360" width="640">
+<img src="/allstages.jpg"  height="360" width="640">
+<img src="/stage1-1.jpg"  height="360" width="640">
+<img src="/stage1.jpg"  height="360" width="640">
+<img src="/stage11.jpg"  height="360" width="640">
+<img src="/stage21 (2).jpg"  height="360" width="640">
+[
