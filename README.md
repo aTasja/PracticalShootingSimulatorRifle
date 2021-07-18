@@ -11,7 +11,8 @@ Gameplay video
 [![Gameplay video](https://img.youtube.com/vi/sYS8l-Vmv_g/maxresdefault.jpg)](https://youtu.be/sYS8l-Vmv_g)<br />
 
 Created asssets for the game(Blender)
-[![Gameplay video](https://img.youtube.com/vi/sYS8l-Vmv_g/maxresdefault.jpg)](https://youtu.be/KK5DAY0A4cY)<br />
+-----------------------------
+[![Created asssets for the game](https://img.youtube.com/vi/KK5DAY0A4cY/maxresdefault.jpg)](https://youtu.be/KK5DAY0A4cY)<br />
 
 The spirit of IPSC competitions inspired us to create this game. 
 We think this shooting discipline and competitions are fascinating, dynamic, and useful for all civilian firearms holders.
